@@ -1,10 +1,10 @@
-![final_604c60541bf76a004e9f95b0_126616](https://user-images.githubusercontent.com/66271249/111022415-9af7ef00-83f8-11eb-8f78-bdcd89f027df.gif)
+<!-- ![final_604c60541bf76a004e9f95b0_126616](https://user-images.githubusercontent.com/66271249/111022415-9af7ef00-83f8-11eb-8f78-bdcd89f027df.gif) -->
 
-<img src="https://img.shields.io/github/followers/karthikeysaxena2507?style=social"/>
+<img src="https://img.shields.io/github/followers/rhitwiksaha?style=social"/>
 
 <p>
  <i>
-    I am a full stack developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    I am a Software Engineer. <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
  </i>
 </p>
 
@@ -12,10 +12,10 @@
 
 ### About Me:
 
-- 🎓 I am currently a senior undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
-- 👨‍ I like to solve real life problems and interested in competitive programming
-- 💻 I am a Full Stack/Software Developer enthusiast
-- ⚡ I am looking to collaborate with people and enhance my skills as a developer
+- 🎓 I am currently a Computer Science and Engineering Senior Undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT (BHU) - Varanasi </a>
+- 👨‍ I like to solve Real Life Problems and interested in Competitive Programming.
+- 💻 I am a Software Engineering enthusiast.
+- ⚡ I am looking to collaborate with people and enhance my skills as an engineer.
 
 ---
 
@@ -64,17 +64,17 @@ Databases:
  
  <div align = "center">
   
-  <a href="https://github.com/karthikeysaxena2507" title="Redirect's to Karthikey's Github">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&theme=radical&count_private=true" /></a>
+  <a href="https://github.com/rhitwiksaha" title="Redirects to Rhitwik's Github">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rhitwiksaha&show_icons=true&theme=radical&count_private=true" /></a>
 
-  <a href="https://github.com/karthikeysaxena2507">
-  <img width="49%" title="Redirect's to Karthikey's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeysaxena2507&theme=radical" /></a>
+  <a href="https://github.com/rhitwiksaha">
+  <img width="49%" title="Redirects to Rhitwik's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=rhitwiksaha&theme=radical" /></a>
   
   </div>
 
  <div align = "center">
-  <a href ="https://github.com/karthikeysaxena2507" title="Redirect's to karthikey's Github">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a>
+  <a href ="https://github.com/rhitwiksaha" title="Redirects to Rhitwik's Github">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhitwiksaha&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a>
   </div>
 
 </p>
@@ -83,13 +83,13 @@ Databases:
 
 ### Find Me On:
 <p align="center">
- <a href="https://www.linkedin.com/in/karthikey-saxena-69944b177/">
+ <a href="https://www.linkedin.com/in/rhitwik-saha/">
    <img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60">
  </a>
- <a href="https://www.instagram.com/karthikeysaxena/">
+ <a href="https://www.instagram.com/rhitwik.saha/">
    <img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60">
  </a>
- <a href="https://www.facebook.com/kartikey.saxena.71/">
+ <a href="https://www.facebook.com/anonymous.rs6/">
    <img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60">
  </a>
 </p>
@@ -98,8 +98,9 @@ Databases:
 
 ### Relevant Links:
 
-* [My Portfolio](https://karthikey-saxena.netlify.app/)
+<!-- * [My Portfolio](https://karthikey-saxena.netlify.app/) -->
 
-* [My Codeforces Profile](https://codeforces.com/profile/KarthikeySaxena)
+* [My Codeforces Profile](https://codeforces.com/profile/Ae_R_eS)
+* [My Codechef Profile](https://www.codechef.com/users/rhitwiksaha)
 
-* [My Resume](https://drive.google.com/file/d/1TfGyetdVgaJEBUIvz8_Azq5SX6x4Zy4T/view?usp=sharing)
+<!-- * [My Resume](https://drive.google.com/file/d/1TfGyetdVgaJEBUIvz8_Azq5SX6x4Zy4T/view?usp=sharing) -->
