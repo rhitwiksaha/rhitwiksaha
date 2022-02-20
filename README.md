@@ -4,9 +4,7 @@
 
 <p>
  <i>
-    Being an undergraduate, I strive to explore new opportunities that I can leverage, work on my passion, and let it drive me towards impacting lives positively.
-
-    I am an enthusiastic learner and specialized in software engineering and web development with a professional experience working with C++, Python, Git and Linux, with    interest towards Competitive Programming and Video Editing.
+    Being an undergraduate, I strive to explore new opportunities that I can leverage, work on my passion, and let it drive me towards impacting lives positively. I am an enthusiastic learner and specialized in software engineering and web development with a professional experience working with C++, Python, Git and Linux, with interest towards Competitive Programming and Video Editing.
 <!--   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> -->
  </i>
 </p>
