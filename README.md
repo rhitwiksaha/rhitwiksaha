@@ -13,10 +13,8 @@
 
 ### About Me:
 
-- 🎓 I am currently a Computer Science and Engineering Senior Undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT (BHU) - Varanasi </a>
-- 👨‍ I like to solve Real Life Problems and interested in Competitive Programming.
-- 💻 I am a Software Engineering enthusiast.
-- ⚡ I am looking to collaborate with people and enhance my skills as an engineer.
+- I am a Bachelor in Computer Science and Engineering at <a href="https://www.iitbhu.ac.in/"> IIT (BHU) - Varanasi </a>
+- Currently emplyed at <a href="https://www.ansys.com/"> Ansys Softwares Pvt. Ltd </a> as an RD Engineer I.
 
 ---
 
